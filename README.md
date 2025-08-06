@@ -8,6 +8,6 @@
 
 *... discipline, persistence and commitment.* 🚀
 
-[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&logo=Twitter)](https://twitter.com/gabrieldfreitas)
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=LinkedIn)](https://www.linkedin.com/in/gdfreitas)
+[![Twitter](https://img.shields.io/static/v1?label=@gdfreitasdev&message=%20&logo=X)](https://x.com/gdfreitasdev)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=Linkedin)](https://www.linkedin.com/in/gdfreitasdev)
 [![E-mail](https://img.shields.io/static/v1?label=gdfreitasdev@gmail.com&message=%20&logo=gmail)](mailto:gdfreitasdev@gmail.com)
